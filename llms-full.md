@@ -1,4 +1,5 @@
-# __thirdweb TypeScript SDK Documentation__
+
+thirdweb TypeScript SDK Documentation__
 
 > Frontend, Backend, and Onchain tools to build complete web3 apps — on every EVM chain.
 
