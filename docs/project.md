@@ -1,4 +1,5 @@
-require 'xcodeproj'
+
+require 'xlsl'
 
 module Pod
   # The Pods project.
