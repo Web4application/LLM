@@ -1,6 +1,34 @@
 
-⸻
+# LMLM — Local Multi-Language AI Model
 
+██╗     ███╗   ███╗██╗     ██╗      ██████╗ 
+██║     ████╗ ████║██║     ██║     ██╔═══██╗
+██║     ██╔████╔██║██║     ██║     ██║   ██║
+██║     ██║╚██╔╝██║██║     ██║     ██║   ██║
+███████╗██║ ╚═╝ ██║███████╗███████╗╚██████╔╝
+╚══════╝╚═╝     ╚═╝╚══════╝╚══════╝ ╚═════╝ 
+
+╔═╗╔═╗╔═╗   ╔═╗╔═╗╔═╗
+║L║║M║║L║──►║M║║U║║L║
+╚═╝╚═╝╚═╝   ╚═╝╚═╝╚═╝
+   ◉──◉──◉   ◉──◉──◉
+      Local Multi-Language AI Model
+
+![Build](https://img.shields.io/badge/build-passing-brightgreen)  
+![Python Version](https://img.shields.io/badge/python-3.11-blue)  
+![License](https://img.shields.io/badge/license-MIT-green)  
+![GitHub stars](https://img.shields.io/github/stars/Web4application/lmlm?style=social)  
+![Issues](https://img.shields.io/github/issues/Web4application/lmlm)  
+![Docker Pulls](https://img.shields.io/docker/pulls/Web4application/lmlm)  
+![Docs](https://img.shields.io/badge/docs-online-blue)
+
+╔═╗╔═╗╔═╗   ╔═╗╔═╗╔═╗
+║L║║M║║L║──►║M║║U║║L║
+╚═╝╚═╝╚═╝   ╚═╝╚═╝╚═╝
+   ◉──◉──◉   ◉──◉──◉
+      Local Multi-Language AI Model
+	  ---
+	  
 LMLM — Local Multi-Language AI Model
 
 
